@@ -1,2 +1,2 @@
-# curso-python-inova-o
+# Curso Inovação Cívica - Projeto ao vivo
 Tutorial de como criar um repositório Git
